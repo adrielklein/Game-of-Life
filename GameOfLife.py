@@ -1,3 +1,6 @@
+# This program will simulate Conways Game of Life (http://en.wikipedia.org/wiki/Conway's_Game_of_Life).
+# Don't believe me? Try it out.
+
 from time import sleep
 
 n = 30
